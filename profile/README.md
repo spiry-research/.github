@@ -1,7 +1,12 @@
-Experienced team in smart contract & software development since 2017. We aim for the best software development.
+## 🚀 About us
+Experienced team in smart contract & software development since 2017.
+We aim for the best software development. 
 
-What we are working on right now?
-👩‍💻 We currently own a closed-gated SaaS solution called Orion.
+
+
+
+## What we are working on right now?
+👩‍💻 We currently own a closed-gated SaaS solution called Orion. 
 
 🧠 We are currently learning A.I development
 
